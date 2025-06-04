@@ -1,0 +1,21 @@
+await trustX.connect(ethers.getSigners()[1]).registerFreelancer();
+const trustX = await TrustX.attach("0x5FC8d32690cc91D4c39d9d3abcBD16989F875707");
+const TrustX = await ethers.getContractFactory("TrustX", signer);
+const [signer] = await ethers.getSigners();
+.exit
+npx hardhat console --network localhost
+cd C:\Users\mudig\Downloads\TrustX-main\TrustX-main\mytrustx
+await trustX.connect(ethers.getSigners()[1]).registerFreelancer();
+const trustX = await TrustX.attach("0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9");
+const TrustX = await ethers.getContractFactory("TrustX");
+const trustX = await TrustX.attach("0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9");
+const TrustX = await ethers.getContractFactory("TrustX");
+npx hardhat console --network localhost
+const trustX = await TrustX.attach(" 0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9");
+const TrustX = await ethers.getContractFactory("TrustX");
+const trustX = await TrustX.attach("0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0");
+const TrustX = await ethers.getContractFactory("TrustX");
+const trustX = await TrustX.attach("0x9fE4
+const TrustX = await ethers.getContractFactory("TrustX");
+const trustX = await TrustX.attach("<contract-address>");
+const TrustX = await ethers.getContractFactory("TrustX");
